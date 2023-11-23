@@ -17,7 +17,7 @@ This is a simple Go (Golang) project that simulates a deck of cards. The project
 2. Clone the repository to your local machine:
 
 ```bash
-     git clone https://github.com/ankitaryan404/Go_Cards
+     git clone https://github.com/ankitaryan404/Go_Cards.git
 ```
   
 
